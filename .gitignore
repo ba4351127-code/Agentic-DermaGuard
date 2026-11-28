@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Local validation dataset
+data/validation_check/
+
+# Generated test output
+notebooks/*results.csv
